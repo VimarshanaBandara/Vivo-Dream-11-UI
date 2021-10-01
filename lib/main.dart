@@ -171,7 +171,7 @@ class _HomePageState extends State<HomePage> {
                                   children: [
                                      Row(
                                        children: [
-                                         Image.asset('images/csk.png',height: 110.0,width: 90.0,),
+                                         Image.asset('images/dc.png',height: 110.0,width: 90.0,),
                                        ],
                                      ),
                                     Column(
